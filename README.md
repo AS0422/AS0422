@@ -36,9 +36,19 @@ Currently exploring **advanced exploitation**, **Active Directory attacks**, and
 - **Forensics/Analysis:** Wireshark, tcpdump, Autopsy  
 - **Cloud & Virtualization:** Azure, Docker, VirtualBox, Proxmox  
 
-**Badges**  
-
-
+**Badges** 
+<a href='https://academy.hackthebox.com/achievement/badge/cadb5087-0d56-11ef-b18d-bea50ffe6cb4' >
+ <img src="assets/airborne-delivery.png" alt="Airborne Delivery" width="200">
+</a>
+<a href='https://academy.hackthebox.com/achievement/badge/f01994c3-0c8f-11ef-b18d-bea50ffe6cb4' >
+ <img src="assets/ghost-in-the-shell.png" alt="Ghost in the Shell" width="200">
+ </a>
+<a href='https://academy.hackthebox.com/achievement/badge/c83bf7e1-646c-11ee-aac4-bea50ffe6cb4' >
+ <img src="assets/stairway-to-heaven.png" alt="stairway-to-heaven" width="200">
+</a>
+<a href='https://academy.hackthebox.com/achievement/badge/79b8ba43-5de5-11ee-97cb-bea50ffe6cb4' >
+ <img src="assets/the-eye-that-sees-all .png" alt="the-eye-that-sees-all" width="200">
+</a>
 
 ---
 
@@ -65,7 +75,6 @@ Currently exploring **advanced exploitation**, **Active Directory attacks**, and
 - 🥈 Achived **Hacker Rank**  on HTB Labs
 - 🏅 Conducted 15+ simulated pentests across web, network and cloud environments  
  
-
 ---
 
 ## 🎓 Continuous Learning  
